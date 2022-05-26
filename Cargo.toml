@@ -1,0 +1,8 @@
+[package]
+name = "pttk"
+version = "0.0.1"
+authors = ["Petar Markov"]
+edition = "2021"
+
+[dependencies]
+inquire = "0.0.6"
